@@ -50,12 +50,3 @@ while True:
             print(" ",key,"      ")
     print("\nEncode: 1\nDecode: 2\nCrack: 3\nExit: 4")
     enorde= int(input("Enter your choice: "))
-    
-    
-        
-                
-            
-
-       
-        
-    
